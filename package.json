@@ -1,0 +1,14 @@
+{
+  "name": "versatile",
+  "version": "1.0.0",
+  "description": "Solutions for the interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Noor Nisha",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
